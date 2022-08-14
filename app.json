@@ -19,11 +19,11 @@
             "required": true
         },
         "SUPPORT_GROUP": {
-          "description": "PUT UR GROUP LINK HERE WITHOU @", "ALONE_CHATTING_WORLD"
+          "description": "PUT UR GROUP LINK HERE WITHOU @",
           "required": true
         },
         "SUPPORT_CHANNEL": {
-          "description": "PUT UR CHANNEL LINK HERE WITHOU @", "ALONE_CHATTING_WORLD"
+          "description": "PUT UR CHANNEL LINK HERE WITHOU @",
           "required": true
         },
         
@@ -31,7 +31,7 @@
           
        
         "OWNER_USERNAME": {
-          "description": "PUT UR USERNAME HERE WITHOU @ LIKE ALONE", "ALONE_WAS_BOT"
+          "description": "PUT UR USERNAME HERE WITHOU @ LIKE ALONE",
           "required": true
         },
         "SUDO_USERS": {
