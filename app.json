@@ -1,9 +1,9 @@
 {
-    "name": "VENOMxOPxMUSIC",
-    "logo": "https://telegra.ph/file/bba6f800202a4c6c08ff6.png",
+    "name": "ALONExOPxMUSIC",
+    "logo": "https://telegra.ph//file/d122a125988c66faa1393.jpg",
     "description": "An Advanced Premium Music Bot For Telegram Groups VC.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/VENOM-CRAZY/VENOMxOPxMUSIC",
+    "repository": "https://github.com/DilwarBot/ALONExOPxMUSIC",
     "stack": "container",
     "env": {
         "API_ID": {
@@ -19,11 +19,11 @@
             "required": true
         },
         "SUPPORT_GROUP": {
-          "description": "PUT UR GROUP LINK HERE WITHOU @",
+          "description": "PUT UR GROUP LINK HERE WITHOU @", "ALONE_CHATTING_WORLD"
           "required": true
         },
         "SUPPORT_CHANNEL": {
-          "description": "PUT UR CHANNEL LINK HERE WITHOU @",
+          "description": "PUT UR CHANNEL LINK HERE WITHOU @", "ALONE_CHATTING_WORLD"
           "required": true
         },
         
@@ -31,15 +31,15 @@
           
        
         "OWNER_USERNAME": {
-          "description": "PUT UR USERNAME HERE WITHOU @ LIKE VENOMxCRAZY",
+          "description": "PUT UR USERNAME HERE WITHOU @ LIKE ALONE", "ALONE_WAS_BOT"
           "required": true
         },
         "SUDO_USERS": {
-          "description": "PUT UR TELEGRAM ID HERE GET IT FROM @ALICIAOP_BOT",
+          "description": "PUT UR TELEGRAM ID HERE GET IT FROM",
           "required": true
         },
         "STRING_SESSION": {
-            "description": "enter pyrogram string get it from @venomstring_bot",
+            "description": "enter pyrogram string get it from",
             "required": true
         }
     },
