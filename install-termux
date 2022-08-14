@@ -1,14 +1,14 @@
 #!/usr/bin/env bash
 
-# VENOM-CRAZY - VENOMxOPxMUSIC
+# DilwarBot - ALONExOPxMUSIC
 
 # Copyright (C) 2021-2022 TeamVenom
 
 #
 
-# This file is a part of < https://github.com/VENOM-CRAZY/VENOMxOPxMUSIC/ >
+# This file is a part of < https://github.com/DilwarBot/ALONExOPxMUSIC/ >
 
-# PLease read the GNU Affero General Public License in <https://www.github.com/VENOM-CRAZY/VENOMxOPxMUSIC/LICENSE/>.
+# PLease read the GNU Affero General Public License in <https://www.github.com/DilwarBot/ALONExOPxMUSIC/LICENSE/>.
 
 if [ -d "resources" ]
 
@@ -20,9 +20,9 @@ else
 
     apt install git -y
 
-    git clone https://github.com/VENOM-CRAZY/VENOMxOPxMUSIC
+    git clone https://github.com/DilwarBot/ALONExOPxMUSIC
 
-    cd VENOMxOPxMUSIC
+    cd ALONExOPxMUSIC
 
 fi
 
