@@ -89,7 +89,7 @@ async def generate_cover(requested_by, title, views, duration, thumbnail):
     draw.text((190, 630), f"Views: {views}", (255, 255, 255), font=font)
     draw.text(
         (190, 670),
-        f"Powered By: VENOM  (@VENOMxCRAZY)",
+        f"Powered By: ALONE  (@ALONE_WAS_BOT)",
         (255, 255, 255),
         font=font,
     )
@@ -172,10 +172,10 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                        InlineKeyboardButton(text="𝐆 𝐑 𝐎 𝐔 𝐏", url=f"https://t.me/{SUPPORT_GROUP}"),
-                      InlineKeyboardButton(text="𝐂 𝐇 𝐀 𝐍 𝐍 𝐄 𝐋", url=f"https://t.me/{SUPPORT_CHANNEL}"),
+                        InlineKeyboardButton(text="🥀🎼𝐆𝐑𝐎𝐔𝐏🎼🥀", url=f"https://t.me/{SUPPORT_GROUP}"),
+                      InlineKeyboardButton(text="🥀🎼𝐂𝐇𝐀𝐍𝐍𝐄𝐋🎼🥀", url=f"https://t.me/{SUPPORT_CHANNEL}"),
                   ],[
-                      InlineKeyboardButton(text="𝐎 𝐖 𝐍 𝐄 𝐑", url=f"https://t.me/{OWNER_USERNAME}")
+                      InlineKeyboardButton(text="🥀🎼𝐎𝐖𝐍𝐄𝐑🎼🥀", url=f"https://t.me/{OWNER_USERNAME}")
 
                 ]
             ]
@@ -212,10 +212,10 @@ async def play(_, message: Message):
             keyboard = InlineKeyboardMarkup(
             [
                 [
-                        InlineKeyboardButton(text="𝐆 𝐑 𝐎 𝐔 𝐏", url=f"https://t.me/{SUPPORT_GROUP}"),
-                      InlineKeyboardButton(text="𝐂 𝐇 𝐀 𝐍 𝐍 𝐄 𝐋", url=f"https://t.me/{SUPPORT_CHANNEL}"),
+                        InlineKeyboardButton(text="🥀🎼𝐆𝐑𝐎𝐔𝐏🎼🥀", url=f"https://t.me/{SUPPORT_GROUP}"),
+                      InlineKeyboardButton(text="🥀🎼𝐂𝐇𝐀𝐍𝐍𝐄𝐋🎼🥀", url=f"https://t.me/{SUPPORT_CHANNEL}"),
                   ],[
-                      InlineKeyboardButton(text="𝐎 𝐖 𝐍 𝐄 𝐑", url=f"https://t.me/{OWNER_USERNAME}")
+                      InlineKeyboardButton(text="🥀🎼𝐎𝐖𝐍𝐄𝐑🎼🥀", url=f"https://t.me/{OWNER_USERNAME}")
 
                 ]
             ]
@@ -229,10 +229,10 @@ async def play(_, message: Message):
             keyboard = InlineKeyboardMarkup(
             [
                 [
-                        InlineKeyboardButton(text="𝐆 𝐑 𝐎 𝐔 𝐏", url=f"https://t.me/{SUPPORT_GROUP}"),
-                      InlineKeyboardButton(text="𝐂 𝐇 𝐀 𝐍 𝐍 𝐄 𝐋", url=f"https://t.me/{SUPPO_CHANNEL}"),
+                        InlineKeyboardButton(text="🥀🎼𝐆𝐑𝐎𝐔𝐏🎼🥀", url=f"https://t.me/{SUPPORT_GROUP}"),
+                      InlineKeyboardButton(text="🥀🎼𝐂𝐇𝐀𝐍𝐍𝐄𝐋🎼🥀", url=f"https://t.me/{SUPPO_CHANNEL}"),
                   ],[
-                      InlineKeyboardButton(text="𝐎 𝐖 𝐍 𝐄 𝐑", url=f"https://t.me/{OWNER_USERNAME}")
+                      InlineKeyboardButton(text="🥀🎼𝐎𝐖𝐍𝐄𝐑🎼🥀", url=f"https://t.me/{OWNER_USERNAME}")
 
                 ]
             ]
@@ -284,10 +284,10 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                        InlineKeyboardButton(text="𝐆 𝐑 𝐎 𝐔 𝐏", url=f"https://t.me/{SUPPORT_GROUP}"),
-                      InlineKeyboardButton(text="𝐂 𝐇 𝐀 𝐍 𝐍 𝐄 𝐋", url=f"https://t.me/{SUPPORT_CHANNEL}"),
+                        InlineKeyboardButton(text="🥀🎼𝐆𝐑𝐎𝐔𝐏🎼🥀", url=f"https://t.me/{SUPPORT_GROUP}"),
+                      InlineKeyboardButton(text="🥀🎼𝐂𝐇𝐀𝐍𝐍𝐄𝐋🎼🥀", url=f"https://t.me/{SUPPORT_CHANNEL}"),
                   ],[
-                      InlineKeyboardButton(text="𝐎 𝐖 𝐍 𝐄 𝐑", url=f"https://t.me/{OWNER_USERNAME}")
+                      InlineKeyboardButton(text="🥀🎼𝐎𝐖𝐍𝐄𝐑🎼🥀", url=f"https://t.me/{OWNER_USERNAME}")
 
                 ]
             ]
